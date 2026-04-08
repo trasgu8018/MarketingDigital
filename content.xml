@@ -1,0 +1,1186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260406195641UE28A8</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>2026040619564152CP28</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>CONCRECCIÓN CURRICULAR de la SdA</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Juan Carlos Hernández</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-beta2</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1775475422735</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>atkinson-hyperlegible-next</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mnn483wv-h2csgh4fn</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>SdA 6: Marketing Digital</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SdA 6: Marketing Digital</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>SdA 6: Marketing Digital</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>SdA 6: Marketing Digital</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnn483wv-h2csgh4fn</odePageId>
+      <odeBlockId>block-1775474949077-9tug62iww</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnn483wv-h2csgh4fn</odePageId>
+          <odeBlockId>block-1775474949077-9tug62iww</odeBlockId>
+          <odeIdeviceId>idevice-1775474949075-sylwxzrr1</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/mceclip0_1.png" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775474949075-sylwxzrr1","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/mceclip0_1.png\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mnn483wv-h2csgh4fn</odePageId>
+      <odeBlockId>block-1775474159095-prrlsv4gn</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnn483wv-h2csgh4fn</odePageId>
+          <odeBlockId>block-1775474159095-prrlsv4gn</odeBlockId>
+          <odeIdeviceId>idevice-1775474159093-sabzqpvb5</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1775474159093-sabzqpvb5" title="" href="{{context_path}}/content/resources/Gemini_Generated_Image_x4pxs0x4pxs0x4px.jpg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Gemini_Generated_Image_x4pxs0x4pxs0x4px.jpg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775474159093-sabzqpvb5","img_1":{"img":"{{context_path}}/content/resources/Gemini_Generated_Image_x4pxs0x4pxs0x4px.jpg","thumbnail":"{{context_path}}/content/resources/Gemini_Generated_Image_x4pxs0x4pxs0x4px.jpg","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnn483x7-8oql8b0aw</odePageId>
+  <odeParentPageId>page-mnn483wv-h2csgh4fn</odeParentPageId>
+  <pageName>1. Intención educativa</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Intención educativa</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Intención educativa</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnn483x7-8oql8b0aw</odePageId>
+      <odeBlockId>block-1774726091657-kxsvjg05m</odeBlockId>
+      <blockName>Intención educativa</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnn483x7-8oql8b0aw</odePageId>
+          <odeBlockId>block-1774726091657-kxsvjg05m</odeBlockId>
+          <odeIdeviceId>idevice-1774726091654-sbfiqor77</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Se busca que el alumnado construya una estrategia de marketing digital real y funcional para su proyecto de empresa, aplicando las 5P del marketing dentro de un embudo de ventas (funnel). Para ello se proponen actividades como: la definición de la identidad de marca, la creación de un prototipo visual con IA generativa, el diseño y publicación de una landing page funcional, la optimización SEO de contenidos y la elaboración de un vídeo pitch de captación.</p>
+<p>El punto de partida es el Business Model Canvas y el buyer persona que cada equipo ya tiene definidos de unidades anteriores. El hilo conductor es el funnel de ventas: ¿cómo llevo a mi cliente desde que no me conoce hasta que compra y fideliza? Cada sesión añade una pieza al embudo, y la landing page es el punto de conversión donde todo se integra.</p>
+<p>Es posible la colaboración con el módulo de Comunicación y Atención al Paciente en la tarea 1 (identidad de marca y tono de comunicación); y con el módulo de Gestión de Pacientes en la tarea 4 (SEO y captación de clientes para una clínica dental).</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774726091654-sbfiqor77","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Se busca que el alumnado construya una estrategia de marketing digital real y funcional para su proyecto de empresa, aplicando las 5P del marketing dentro de un embudo de ventas (funnel). Para ello se proponen actividades como: la definición de la identidad de marca, la creación de un prototipo visual con IA generativa, el diseño y publicación de una landing page funcional, la optimización SEO de contenidos y la elaboración de un vídeo pitch de captación.</p>\n<p>El punto de partida es el Business Model Canvas y el buyer persona que cada equipo ya tiene definidos de unidades anteriores. El hilo conductor es el funnel de ventas: ¿cómo llevo a mi cliente desde que no me conoce hasta que compra y fideliza? Cada sesión añade una pieza al embudo, y la landing page es el punto de conversión donde todo se integra.</p>\n<p>Es posible la colaboración con el módulo de Comunicación y Atención al Paciente en la tarea 1 (identidad de marca y tono de comunicación); y con el módulo de Gestión de Pacientes en la tarea 4 (SEO y captación de clientes para una clínica dental).</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mnn483x7-8oql8b0aw</odePageId>
+      <odeBlockId>block-1775475755505-arnixfvnv</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnn483x7-8oql8b0aw</odePageId>
+          <odeBlockId>block-1775475755505-arnixfvnv</odeBlockId>
+          <odeIdeviceId>idevice-1775475755501-huqo75fr7</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h5>1. Vinculación con los ODS<br /></h5>
+<p>El proyecto impacta directamente en tres objetivos clave:</p>
+<p><strong>ODS 4: Educación de Calidad. </strong>Promueve el aprendizaje de competencias técnicas (IA, SEO, Landing Pages) y transversales (creatividad, estrategia). Al integrar distintos módulos (Comunicación, Gestión), fomenta una educación interdisciplinar y aplicada al mundo real, alejándose de la teoría abstracta.</p>
+<p><strong>ODS 8: Trabajo Decente y Crecimiento Económico. </strong>El alumnado adquiere habilidades de empleabilidad y emprendimiento. Al aprender a diseñar un embudo de ventas y un modelo de negocio (Canvas), se les prepara para dinamizar el tejido empresarial o lanzar sus propias startups, especialmente en el sector salud.<br /></p>
+<h5><strong>ODS 9: Industria, Innovación e Infraestructura. </strong>La introducción de la IA generativa para prototipado y el uso de herramientas digitales avanzadas sitúa al alumnado en la vanguardia de la innovación tecnológica, esencial para la transformación digital de las pequeñas y medianas empresas.<br /> <br />2. Los Retos del Siglo XXI</h5>
+<p>El planteamiento de la actividad responde a las demandas de un entorno volátil y tecnológico:</p>
+<p><strong>A. La Transformación Digital y la IA</strong><br /></p>
+<p>El reto no es solo usar la tecnología, sino integrarla éticamente en la estrategia. El uso de IA generativa para el prototipado visual aborda la necesidad de agilizar procesos creativos y familiarizarse con herramientas que están redefiniendo todas las profesiones.</p>
+<p><strong>B. El Nuevo Paradigma de la Comunicación</strong><br /></p>
+<p>En el siglo XXI, la atención es el activo más escaso. El reto del Funnel de Ventas refleja la complejidad de captar y fidelizar clientes en un entorno saturado de información (infoxicación). Pasar de "desconocido" a "fiel" requiere un dominio del lenguaje digital, el SEO y la narrativa audiovisual (vídeo pitch).</p>
+<p><strong>C. La Interdisciplinariedad y el Trabajo Colaborativo</strong><br /></p>
+<p>Los problemas actuales no se resuelven desde una sola disciplina. El texto destaca la colaboración entre módulos (Marketing, Comunicación, Gestión de Pacientes). Esto prepara al alumno para el reto de la cooperación en entornos híbridos, donde el éxito de un proyecto depende de la conexión entre departamentos técnicos y humanos.</p>
+<p><strong>D. Humanización del Sector Salud (Human-Centric)</strong><br /></p>
+<p>Al trabajar con el buyer persona y el tono de comunicación en el ámbito de una clínica dental, se aborda el reto de la humanización de la asistencia sanitaria. No se trata solo de "vender un servicio", sino de entender las necesidades del paciente y construir una relación de confianza y ética profesional.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775475755501-huqo75fr7","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h5>1. Vinculación con los ODS<br /></h5>\n<p>El proyecto impacta directamente en tres objetivos clave:</p>\n<p><strong>ODS 4: Educación de Calidad. </strong>Promueve el aprendizaje de competencias técnicas (IA, SEO, Landing Pages) y transversales (creatividad, estrategia). Al integrar distintos módulos (Comunicación, Gestión), fomenta una educación interdisciplinar y aplicada al mundo real, alejándose de la teoría abstracta.</p>\n<p><strong>ODS 8: Trabajo Decente y Crecimiento Económico. </strong>El alumnado adquiere habilidades de empleabilidad y emprendimiento. Al aprender a diseñar un embudo de ventas y un modelo de negocio (Canvas), se les prepara para dinamizar el tejido empresarial o lanzar sus propias startups, especialmente en el sector salud.<br /></p>\n<h5><strong>ODS 9: Industria, Innovación e Infraestructura. </strong>La introducción de la IA generativa para prototipado y el uso de herramientas digitales avanzadas sitúa al alumnado en la vanguardia de la innovación tecnológica, esencial para la transformación digital de las pequeñas y medianas empresas.<br /> <br />2. Los Retos del Siglo XXI</h5>\n<p>El planteamiento de la actividad responde a las demandas de un entorno volátil y tecnológico:</p>\n<p><strong>A. La Transformación Digital y la IA</strong><br /></p>\n<p>El reto no es solo usar la tecnología, sino integrarla éticamente en la estrategia. El uso de IA generativa para el prototipado visual aborda la necesidad de agilizar procesos creativos y familiarizarse con herramientas que están redefiniendo todas las profesiones.</p>\n<p><strong>B. El Nuevo Paradigma de la Comunicación</strong><br /></p>\n<p>En el siglo XXI, la atención es el activo más escaso. El reto del Funnel de Ventas refleja la complejidad de captar y fidelizar clientes en un entorno saturado de información (infoxicación). Pasar de \"desconocido\" a \"fiel\" requiere un dominio del lenguaje digital, el SEO y la narrativa audiovisual (vídeo pitch).</p>\n<p><strong>C. La Interdisciplinariedad y el Trabajo Colaborativo</strong><br /></p>\n<p>Los problemas actuales no se resuelven desde una sola disciplina. El texto destaca la colaboración entre módulos (Marketing, Comunicación, Gestión de Pacientes). Esto prepara al alumno para el reto de la cooperación en entornos híbridos, donde el éxito de un proyecto depende de la conexión entre departamentos técnicos y humanos.</p>\n<p><strong>D. Humanización del Sector Salud (Human-Centric)</strong><br /></p>\n<p>Al trabajar con el buyer persona y el tono de comunicación en el ámbito de una clínica dental, se aborda el reto de la humanización de la asistencia sanitaria. No se trata solo de \"vender un servicio\", sino de entender las necesidades del paciente y construir una relación de confianza y ética profesional.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnn483x9-nd4ebgriw</odePageId>
+  <odeParentPageId>page-mnn483wv-h2csgh4fn</odeParentPageId>
+  <pageName>2. Elementos curriculares</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Elementos curriculares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Elementos curriculares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnn483x9-nd4ebgriw</odePageId>
+      <odeBlockId>block-1774727521439-wextnl7dv</odeBlockId>
+      <blockName>Elementos Curriculares</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnn483x9-nd4ebgriw</odePageId>
+          <odeBlockId>block-1774727521439-wextnl7dv</odeBlockId>
+          <odeIdeviceId>idevice-1774727521437-g8fit9mnu</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <table border="1" style="width: 100%; height: 128px;">
+<tbody>
+<tr style="height: 46px;">
+<td colspan="3" style="width: 100%; height: 46px; background-color: #b96ad9;">
+<h5>TÍTULO DE LA SDA: Del Funnel a la Landing: Marketing Digital para tu Clínica</h5>
+</td>
+</tr>
+<tr style="height: 49px;">
+<td style="width: 33.3333%; height: 49px;">
+<p>Sesiones: 5 sesiones · ~2 h/sesión</p>
+</td>
+<td style="width: 33.3333%; height: 49px;"></td>
+<td style="width: 33.3333%; height: 49px;">Grupo: 2º CFGS Higiene Bucodental</td>
+</tr>
+<tr style="height: 33px;">
+<td colspan="3" style="width: 100%; height: 33px; background-color: #c2e0f4;">Módulo: IPE II – Iniciativa y Empresa (UD 6: El Marketing)<br /></td>
+</tr>
+</tbody>
+</table>
+<p><br /></p>
+<table border="1" style="width: 100%;">
+<tbody>
+<tr>
+<td style="width: 99.8162%; background-color: #3598db;">Competencias profesionales, personales y sociales</td>
+</tr>
+<tr>
+<td style="width: 99.8162%;">
+<p>•     Aplicar estrategias de marketing digital (funnel, landing page, SEO, captación, vídeo pitch) adaptadas al sector sanitario y bucodental.</p>
+<p>•     Crear y gestionar la identidad de marca de un proyecto empresarial, integrando herramientas digitales e IA generativa.</p>
+<p>•     Diseñar y publicar una landing page funcional como prototipo de la estrategia comercial.</p>
+<p>•     Comunicar de forma oral y escrita la estrategia de marketing ante un público, argumentando las decisiones tomadas.</p>
+<p>•     Trabajar en equipo de manera cooperativa, distribuyendo roles y responsabilidades para alcanzar un objetivo común</p>
+<p>•     Desarrollar iniciativa emprendedora y pensamiento crítico para adaptar las herramientas digitales a un contexto profesional real.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><br /></p>
+<table border="1" style="width: 100%;">
+<tbody>
+<tr>
+<td style="width: 99.9107%; background-color: #3598db;">Relación con ODS 2030</td>
+</tr>
+<tr>
+<td style="width: 99.9107%;">
+<p>•     ODS nº 3 – Salud y bienestar: el marketing ético de servicios de salud bucodental favorece el acceso de la ciudadanía a información sanitaria de calidad.</p>
+<p>•     ODS nº 8 – Trabajo decente y crecimiento económico: el alumnado desarrolla competencias emprendedoras y digitales directamente aplicables al mercado laboral del sector sanitario.</p>
+<p>•     ODS nº 9 – Industria, innovación e infraestructura: se fomenta el uso de herramientas digitales e IA generativa para innovar en la presentación y comercialización de servicios.</p>
+<p>•     ODS nº 17 – Alianzas para lograr los objetivos: la coevaluación y el trabajo cooperativo entre equipos refuerzan la cultura de colaboración y aprendizaje compartido.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><br /></p>
+<table border="1" style="width: 100%;">
+<tbody>
+<tr>
+<td colspan="4" style="width: 99.9106%; background-color: #236fa1;">RESULTADOS DE APRENDIZAJE</td>
+</tr>
+<tr>
+<td colspan="4" style="width: 99.9106%; background-color: #c2e0f4;">RA 4. Realiza actividades de marketing relacionadas con la empresa o la iniciativa emprendedora, analizando las características del mercado y aplicando distintas estrategias.</td>
+</tr>
+<tr>
+<td style="width: 55.051%; background-color: #ecf0f1;">Criterios de evaluación</td>
+<td style="width: 19.7479%; text-align: center; background-color: #ecf0f1;">Instrumento</td>
+<td style="width: 13.3155%; text-align: center; background-color: #ecf0f1;">Ponderación</td>
+<td style="width: 11.7962%; text-align: center; background-color: #ecf0f1;">Mínimo</td>
+</tr>
+<tr>
+<td style="width: 55.051%;">CE 4i. Experimenta con estrategias de marketing digital: embudo de ventas, landing page, SEO básico, canales de captación y vídeo pitch.</td>
+<td style="width: 19.7479%;">
+<p>☑ Rúbrica de entregables</p>
+<p>☑ Lista de control por sesión</p>
+</td>
+<td style="width: 13.3155%; text-align: center;">40 %</td>
+<td style="width: 11.7962%; text-align: center;">5/10</td>
+</tr>
+<tr>
+<td style="width: 55.051%; background-color: #c2e0f4;">CE 4c. Diseña la estrategia comercial del modelo de negocio, integrando identidad de marca, funnel y canales de captación en los bloques Canales y Relación del Business Model Canvas.</td>
+<td style="width: 19.7479%; background-color: #c2e0f4;">
+<p>☑ Rúbrica de entregables</p>
+<p>☑ Escala de valoración (presentación oral)</p>
+</td>
+<td style="width: 13.3155%; text-align: center; background-color: #c2e0f4;">30 %</td>
+<td style="width: 11.7962%; text-align: center; background-color: #c2e0f4;">5/10</td>
+</tr>
+<tr>
+<td style="width: 55.051%;">CE 4h. Valida la estrategia de marketing mediante prototipos funcionales: landing page publicada y vídeo pitch, recogiendo feedback y mejorando los productos.</td>
+<td style="width: 19.7479%;">
+<p>☑ Rúbrica de entregables</p>
+<p>☑ Rúbrica de coevaluación entre pares</p>
+</td>
+<td style="width: 13.3155%; text-align: center;">30 %</td>
+<td style="width: 11.7962%; text-align: center;">5/10</td>
+</tr>
+</tbody>
+</table>
+<p><br /></p>
+<table border="1" style="width: 100%;">
+<tbody>
+<tr>
+<td style="width: 49.9081%; background-color: #236fa1;">
+<h6>Contenidos</h6>
+</td>
+<td style="width: 49.9081%; background-color: #236fa1;">
+<h6>Contenidos mínimos</h6>
+</td>
+</tr>
+<tr>
+<td style="width: 49.9081%;">
+<p><br /><strong>Bloque A – Marketing y empresa</strong></p>
+<ul>
+<li>Las 5P del marketing: Producto, Precio, Place, Promotion y Posventa.</li>
+<li> Identidad de marca: nombre, logotipo, slogan, paleta de colores, tono de comunicación.</li>
+<li> El embudo de ventas (funnel): Atraer → Interesar → Convertir → Fidelizar.</li>
+<li> Propuesta de valor y buyer persona como punto de partida de la estrategia.</li>
+</ul>
+<p><strong>Bloque B – Marketing digital</strong></p>
+<ul>
+<li>Landing page: estructura, copywriting y CTA.</li>
+<li>SEO básico: palabras clave, optimización de contenidos.</li>
+<li>Canales de captación: RRSS, marketing de contenidos, email, eventos.</li>
+<li>IA generativa aplicada al marketing: prototipado visual de productos.</li>
+<li>Vídeo pitch: guión, grabación y edición básica.</li>
+</ul>
+</td>
+<td style="width: 49.9081%; background-color: #c2e0f4;">
+<ul style="list-style-type: circle;">
+<li>Definición y estructura del funnel de ventas.</li>
+<li>Elementos básicos de la identidad de marca (nombre, logo, slogan).</li>
+<li>Estructura de una landing page funcional.</li>
+<li>Concepto de SEO y uso de al menos una herramienta gratuita de palabras clave.</li>
+<li>Creación y publicación de una landing page operativa.</li>
+<li>Elaboración de un vídeo pitch de 60 segundos.</li>
+<li>Presentación oral de la estrategia de marketing ante el grupo-clase.</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<p><br /></p>
+<table border="1" style="width: 100%;">
+<tbody>
+<tr>
+<td colspan="2" style="width: 100%; background-color: #236fa1;">SECUENCIACIÓN DIDÁCTICA</td>
+</tr>
+<tr>
+<td style="width: 79.5343%; background-color: #ecf0f1;">Descripción de la actividad, tarea, proceso</td>
+<td style="width: 20.4657%; background-color: #ecf0f1;">Recursos</td>
+</tr>
+<tr>
+<td style="width: 79.5343%; vertical-align: top;">
+<p><strong>TAREA 1 · ¿QUIÉNES SOIS? Identidad de marca y embudo de ventas</strong></p>
+<p>Sesión 1 – 2 horas</p>
+<p>Partiendo del buyer persona y el Business Model Canvas ya trabajados, cada equipo construye la identidad visual y comunicativa de su marca y mapea el recorrido del cliente a través del funnel de ventas.</p>
+<p>Estructura de la sesión:</p>
+<ul>
+<li>Teoría (40 min): identidad de marca (nombre, logo, slogan, paleta, tono) y fases del funnel. Ejemplos reales del sector dental.</li>
+<li>Taller (1h 20 min): los equipos definen su marca con Canva y mapean su funnel sobre la plantilla.</li>
+</ul>
+<p><strong>Entregable:</strong> Ficha de identidad de marca + Mapa del funnel cumplimentados.</p>
+</td>
+<td style="width: 20.4657%; background-color: #c2e0f4; vertical-align: top;">
+<p>Canva (canva.com)</p>
+<p>Adobe Color (color.adobe.com)</p>
+<p>Padlet / Jamboard (lluvia de ideas)</p>
+<p>Ficha S1 – Identidad de marca + Mapa del funnel</p>
+</td>
+</tr>
+<tr>
+<td style="width: 79.5343%; background-color: #ecf0f1; vertical-align: top;">
+<p><strong>TAREA 2 · DAR FORMA AL PRODUCTO: Prototipo IA y guión de contenido</strong></p>
+<p>Sesión 2 – 2 horas</p>
+<p>Con la marca definida, cada equipo crea el prototipo visual de su producto/servicio con IA generativa y redacta el guión de contenido que utilizará en la landing page.</p>
+<p>Estructura de la sesión:</p>
+<ul>
+<li>Prototipo IA (50 min): generación de 3-5 imágenes del producto con Gemini, Ideogram o Canva IA, coherentes con la identidad de marca.</li>
+<li>Guión de contenido (1h 10 min): redacción del headline, problema, solución, beneficios clave, precio y CTA para la landing.</li>
+</ul>
+<p><strong>Entregable:</strong> Imágenes del prototipo + Guión de contenido para la landing.</p>
+</td>
+<td style="width: 20.4657%; background-color: #c2e0f4; vertical-align: top;">
+<p>Gemini (gemini.google.com)</p>
+<p>Ideogram (ideogram.ai)</p>
+<p>Canva IA / ChatGPT</p>
+<p>Ficha S2 – Guión de contenido</p>
+</td>
+</tr>
+<tr>
+<td style="width: 79.5343%; vertical-align: top;">
+<p><strong>TAREA 3 · CONSTRUIR LA LANDING PAGE</strong></p>
+<p>Sesión 3 – 2 horas</p>
+<p>Cada equipo construye y publica su landing page funcional aplicando el guión y las imágenes de las sesiones anteriores.</p>
+<p>Estructura de la sesión:</p>
+<ul>
+<li>Mini-teoría (20 min): anatomía de una landing page (Hero, Problema, Solución, Beneficios, Prueba social, Precio, CTA). Análisis de 2-3 ejemplos del sector sanitario-dental.</li>
+<li>Taller (1h 40 min): construcción de la landing con Carrd, Google Sites o Wix. El profesor rota dando feedback sobre copywriting y diseño.</li>
+</ul>
+<p><strong>Entregable:</strong> Enlace a la landing page publicada (borrador funcional).</p>
+</td>
+<td style="width: 20.4657%; background-color: #c2e0f4; vertical-align: top;">
+<p>Carrd (carrd.co)</p>
+<p>Google Sites</p>
+<p>Wix (wix.com)</p>
+<p>Ficha S3 – Checklist landing page</p>
+<p>Ejemplos reales de landings sanitarias</p>
+</td>
+</tr>
+<tr>
+<td style="width: 79.5343%; background-color: #ecf0f1; vertical-align: top;">
+<p><strong>TAREA 4 · SEO, CAPTACIÓN Y VÍDEO PITCH</strong></p>
+<p>Sesión 4 – 2 horas</p>
+<p>Los equipos optimizan su landing page con criterios SEO, definen su canal de captación y crean un vídeo pitch de 60 segundos.</p>
+<p>Estructura de la sesión:</p>
+<ul>
+<li>SEO y captación (25 min): palabras clave, optimización de títulos y metadescripción, canales de captación (RRSS, email, eventos) vinculados a las fases del funnel.</li>
+<li>Vídeo pitch (50 min): cada equipo elige una técnica de captación, graba su pitch de 60 s y define el canal de publicación.</li>
+<li>Iteración SEO (45 min): aplicación de las keywords identificadas a la landing (título, metadescripción, contenido).</li>
+</ul>
+<p><strong>Entregable:</strong> Landing optimizada + Vídeo pitch de 60 s.</p>
+</td>
+<td style="width: 20.4657%; background-color: #c2e0f4; vertical-align: top;">
+<p>Google Trends</p>
+<p>Ubersuggest (neilpatel.com/ubersuggest)</p>
+<p>Móvil + CapCut</p>
+<p>Ficha S4 – SEO + vídeo pitch</p>
+</td>
+</tr>
+<tr>
+<td style="width: 79.5343%; vertical-align: top;">
+<p><strong>TAREA 5 · PRESENTACIÓN FINAL Y CIERRE</strong></p>
+<p>Sesión 5 – 2 horas</p>
+<p>Cada equipo presenta ante el grupo-clase su estrategia completa de marketing digital. Se realiza coevaluación entre pares y una reflexión grupal de cierre.</p>
+<p>Estructura de la sesión:</p>
+<ul>
+<li>Presentaciones (~10 min/equipo + preguntas): marca, funnel, landing en vivo, vídeo pitch y reflexión sobre el proceso.</li>
+<li>Coevaluación rápida: cada equipo anota «Lo mejor» y «Una mejora» para cada presentación usando la rúbrica de pares.</li>
+<li>Cierre (30 min): reflexión grupal. ¿Qué habéis aprendido? ¿Cómo aplicaríais esto en vuestra clínica? Conexión con las unidades siguientes (viabilidad económica, formas jurídicas).</li>
+</ul>
+<p><strong>Entregable:</strong> Presentación oral + Ficha de coevaluación + Reflexión individual.</p>
+</td>
+<td style="width: 20.4657%; background-color: #c2e0f4; vertical-align: top;">
+<p>PowerPoint / Google Slides / Canva Presentación</p>
+<p>Rúbrica de coevaluación entre pares</p>
+<p>Ficha de reflexión individual</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774727521437-g8fit9mnu","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<table border=\"1\" style=\"width: 100%; height: 128px;\">\n<tbody>\n<tr style=\"height: 46px;\">\n<td colspan=\"3\" style=\"width: 100%; height: 46px; background-color: #b96ad9;\">\n<h5>TÍTULO DE LA SDA: Del Funnel a la Landing: Marketing Digital para tu Clínica</h5>\n</td>\n</tr>\n<tr style=\"height: 49px;\">\n<td style=\"width: 33.3333%; height: 49px;\">\n<p>Sesiones: 5 sesiones · ~2 h/sesión</p>\n</td>\n<td style=\"width: 33.3333%; height: 49px;\"></td>\n<td style=\"width: 33.3333%; height: 49px;\">Grupo: 2º CFGS Higiene Bucodental</td>\n</tr>\n<tr style=\"height: 33px;\">\n<td colspan=\"3\" style=\"width: 100%; height: 33px; background-color: #c2e0f4;\">Módulo: IPE II – Iniciativa y Empresa (UD 6: El Marketing)<br /></td>\n</tr>\n</tbody>\n</table>\n<p><br /></p>\n<table border=\"1\" style=\"width: 100%;\">\n<tbody>\n<tr>\n<td style=\"width: 99.8162%; background-color: #3598db;\">Competencias profesionales, personales y sociales</td>\n</tr>\n<tr>\n<td style=\"width: 99.8162%;\">\n<p>•     Aplicar estrategias de marketing digital (funnel, landing page, SEO, captación, vídeo pitch) adaptadas al sector sanitario y bucodental.</p>\n<p>•     Crear y gestionar la identidad de marca de un proyecto empresarial, integrando herramientas digitales e IA generativa.</p>\n<p>•     Diseñar y publicar una landing page funcional como prototipo de la estrategia comercial.</p>\n<p>•     Comunicar de forma oral y escrita la estrategia de marketing ante un público, argumentando las decisiones tomadas.</p>\n<p>•     Trabajar en equipo de manera cooperativa, distribuyendo roles y responsabilidades para alcanzar un objetivo común</p>\n<p>•     Desarrollar iniciativa emprendedora y pensamiento crítico para adaptar las herramientas digitales a un contexto profesional real.</p>\n</td>\n</tr>\n</tbody>\n</table>\n<p><br /></p>\n<table border=\"1\" style=\"width: 100%;\">\n<tbody>\n<tr>\n<td style=\"width: 99.9107%; background-color: #3598db;\">Relación con ODS 2030</td>\n</tr>\n<tr>\n<td style=\"width: 99.9107%;\">\n<p>•     ODS nº 3 – Salud y bienestar: el marketing ético de servicios de salud bucodental favorece el acceso de la ciudadanía a información sanitaria de calidad.</p>\n<p>•     ODS nº 8 – Trabajo decente y crecimiento económico: el alumnado desarrolla competencias emprendedoras y digitales directamente aplicables al mercado laboral del sector sanitario.</p>\n<p>•     ODS nº 9 – Industria, innovación e infraestructura: se fomenta el uso de herramientas digitales e IA generativa para innovar en la presentación y comercialización de servicios.</p>\n<p>•     ODS nº 17 – Alianzas para lograr los objetivos: la coevaluación y el trabajo cooperativo entre equipos refuerzan la cultura de colaboración y aprendizaje compartido.</p>\n</td>\n</tr>\n</tbody>\n</table>\n<p><br /></p>\n<table border=\"1\" style=\"width: 100%;\">\n<tbody>\n<tr>\n<td colspan=\"4\" style=\"width: 99.9106%; background-color: #236fa1;\">RESULTADOS DE APRENDIZAJE</td>\n</tr>\n<tr>\n<td colspan=\"4\" style=\"width: 99.9106%; background-color: #c2e0f4;\">RA 4. Realiza actividades de marketing relacionadas con la empresa o la iniciativa emprendedora, analizando las características del mercado y aplicando distintas estrategias.</td>\n</tr>\n<tr>\n<td style=\"width: 55.051%; background-color: #ecf0f1;\">Criterios de evaluación</td>\n<td style=\"width: 19.7479%; text-align: center; background-color: #ecf0f1;\">Instrumento</td>\n<td style=\"width: 13.3155%; text-align: center; background-color: #ecf0f1;\">Ponderación</td>\n<td style=\"width: 11.7962%; text-align: center; background-color: #ecf0f1;\">Mínimo</td>\n</tr>\n<tr>\n<td style=\"width: 55.051%;\">CE 4i. Experimenta con estrategias de marketing digital: embudo de ventas, landing page, SEO básico, canales de captación y vídeo pitch.</td>\n<td style=\"width: 19.7479%;\">\n<p>☑ Rúbrica de entregables</p>\n<p>☑ Lista de control por sesión</p>\n</td>\n<td style=\"width: 13.3155%; text-align: center;\">40 %</td>\n<td style=\"width: 11.7962%; text-align: center;\">5/10</td>\n</tr>\n<tr>\n<td style=\"width: 55.051%; background-color: #c2e0f4;\">CE 4c. Diseña la estrategia comercial del modelo de negocio, integrando identidad de marca, funnel y canales de captación en los bloques Canales y Relación del Business Model Canvas.</td>\n<td style=\"width: 19.7479%; background-color: #c2e0f4;\">\n<p>☑ Rúbrica de entregables</p>\n<p>☑ Escala de valoración (presentación oral)</p>\n</td>\n<td style=\"width: 13.3155%; text-align: center; background-color: #c2e0f4;\">30 %</td>\n<td style=\"width: 11.7962%; text-align: center; background-color: #c2e0f4;\">5/10</td>\n</tr>\n<tr>\n<td style=\"width: 55.051%;\">CE 4h. Valida la estrategia de marketing mediante prototipos funcionales: landing page publicada y vídeo pitch, recogiendo feedback y mejorando los productos.</td>\n<td style=\"width: 19.7479%;\">\n<p>☑ Rúbrica de entregables</p>\n<p>☑ Rúbrica de coevaluación entre pares</p>\n</td>\n<td style=\"width: 13.3155%; text-align: center;\">30 %</td>\n<td style=\"width: 11.7962%; text-align: center;\">5/10</td>\n</tr>\n</tbody>\n</table>\n<p><br /></p>\n<table border=\"1\" style=\"width: 100%;\">\n<tbody>\n<tr>\n<td style=\"width: 49.9081%; background-color: #236fa1;\">\n<h6>Contenidos</h6>\n</td>\n<td style=\"width: 49.9081%; background-color: #236fa1;\">\n<h6>Contenidos mínimos</h6>\n</td>\n</tr>\n<tr>\n<td style=\"width: 49.9081%;\">\n<p><br /><strong>Bloque A – Marketing y empresa</strong></p>\n<ul>\n<li>Las 5P del marketing: Producto, Precio, Place, Promotion y Posventa.</li>\n<li> Identidad de marca: nombre, logotipo, slogan, paleta de colores, tono de comunicación.</li>\n<li> El embudo de ventas (funnel): Atraer → Interesar → Convertir → Fidelizar.</li>\n<li> Propuesta de valor y buyer persona como punto de partida de la estrategia.</li>\n</ul>\n<p><strong>Bloque B – Marketing digital</strong></p>\n<ul>\n<li>Landing page: estructura, copywriting y CTA.</li>\n<li>SEO básico: palabras clave, optimización de contenidos.</li>\n<li>Canales de captación: RRSS, marketing de contenidos, email, eventos.</li>\n<li>IA generativa aplicada al marketing: prototipado visual de productos.</li>\n<li>Vídeo pitch: guión, grabación y edición básica.</li>\n</ul>\n</td>\n<td style=\"width: 49.9081%; background-color: #c2e0f4;\">\n<ul style=\"list-style-type: circle;\">\n<li>Definición y estructura del funnel de ventas.</li>\n<li>Elementos básicos de la identidad de marca (nombre, logo, slogan).</li>\n<li>Estructura de una landing page funcional.</li>\n<li>Concepto de SEO y uso de al menos una herramienta gratuita de palabras clave.</li>\n<li>Creación y publicación de una landing page operativa.</li>\n<li>Elaboración de un vídeo pitch de 60 segundos.</li>\n<li>Presentación oral de la estrategia de marketing ante el grupo-clase.</li>\n</ul>\n</td>\n</tr>\n</tbody>\n</table>\n<p><br /></p>\n<table border=\"1\" style=\"width: 100%;\">\n<tbody>\n<tr>\n<td colspan=\"2\" style=\"width: 100%; background-color: #236fa1;\">SECUENCIACIÓN DIDÁCTICA</td>\n</tr>\n<tr>\n<td style=\"width: 79.5343%; background-color: #ecf0f1;\">Descripción de la actividad, tarea, proceso</td>\n<td style=\"width: 20.4657%; background-color: #ecf0f1;\">Recursos</td>\n</tr>\n<tr>\n<td style=\"width: 79.5343%; vertical-align: top;\">\n<p><strong>TAREA 1 · ¿QUIÉNES SOIS? Identidad de marca y embudo de ventas</strong></p>\n<p>Sesión 1 – 2 horas</p>\n<p>Partiendo del buyer persona y el Business Model Canvas ya trabajados, cada equipo construye la identidad visual y comunicativa de su marca y mapea el recorrido del cliente a través del funnel de ventas.</p>\n<p>Estructura de la sesión:</p>\n<ul>\n<li>Teoría (40 min): identidad de marca (nombre, logo, slogan, paleta, tono) y fases del funnel. Ejemplos reales del sector dental.</li>\n<li>Taller (1h 20 min): los equipos definen su marca con Canva y mapean su funnel sobre la plantilla.</li>\n</ul>\n<p><strong>Entregable:</strong> Ficha de identidad de marca + Mapa del funnel cumplimentados.</p>\n</td>\n<td style=\"width: 20.4657%; background-color: #c2e0f4; vertical-align: top;\">\n<p>Canva (canva.com)</p>\n<p>Adobe Color (color.adobe.com)</p>\n<p>Padlet / Jamboard (lluvia de ideas)</p>\n<p>Ficha S1 – Identidad de marca + Mapa del funnel</p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 79.5343%; background-color: #ecf0f1; vertical-align: top;\">\n<p><strong>TAREA 2 · DAR FORMA AL PRODUCTO: Prototipo IA y guión de contenido</strong></p>\n<p>Sesión 2 – 2 horas</p>\n<p>Con la marca definida, cada equipo crea el prototipo visual de su producto/servicio con IA generativa y redacta el guión de contenido que utilizará en la landing page.</p>\n<p>Estructura de la sesión:</p>\n<ul>\n<li>Prototipo IA (50 min): generación de 3-5 imágenes del producto con Gemini, Ideogram o Canva IA, coherentes con la identidad de marca.</li>\n<li>Guión de contenido (1h 10 min): redacción del headline, problema, solución, beneficios clave, precio y CTA para la landing.</li>\n</ul>\n<p><strong>Entregable:</strong> Imágenes del prototipo + Guión de contenido para la landing.</p>\n</td>\n<td style=\"width: 20.4657%; background-color: #c2e0f4; vertical-align: top;\">\n<p>Gemini (gemini.google.com)</p>\n<p>Ideogram (ideogram.ai)</p>\n<p>Canva IA / ChatGPT</p>\n<p>Ficha S2 – Guión de contenido</p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 79.5343%; vertical-align: top;\">\n<p><strong>TAREA 3 · CONSTRUIR LA LANDING PAGE</strong></p>\n<p>Sesión 3 – 2 horas</p>\n<p>Cada equipo construye y publica su landing page funcional aplicando el guión y las imágenes de las sesiones anteriores.</p>\n<p>Estructura de la sesión:</p>\n<ul>\n<li>Mini-teoría (20 min): anatomía de una landing page (Hero, Problema, Solución, Beneficios, Prueba social, Precio, CTA). Análisis de 2-3 ejemplos del sector sanitario-dental.</li>\n<li>Taller (1h 40 min): construcción de la landing con Carrd, Google Sites o Wix. El profesor rota dando feedback sobre copywriting y diseño.</li>\n</ul>\n<p><strong>Entregable:</strong> Enlace a la landing page publicada (borrador funcional).</p>\n</td>\n<td style=\"width: 20.4657%; background-color: #c2e0f4; vertical-align: top;\">\n<p>Carrd (carrd.co)</p>\n<p>Google Sites</p>\n<p>Wix (wix.com)</p>\n<p>Ficha S3 – Checklist landing page</p>\n<p>Ejemplos reales de landings sanitarias</p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 79.5343%; background-color: #ecf0f1; vertical-align: top;\">\n<p><strong>TAREA 4 · SEO, CAPTACIÓN Y VÍDEO PITCH</strong></p>\n<p>Sesión 4 – 2 horas</p>\n<p>Los equipos optimizan su landing page con criterios SEO, definen su canal de captación y crean un vídeo pitch de 60 segundos.</p>\n<p>Estructura de la sesión:</p>\n<ul>\n<li>SEO y captación (25 min): palabras clave, optimización de títulos y metadescripción, canales de captación (RRSS, email, eventos) vinculados a las fases del funnel.</li>\n<li>Vídeo pitch (50 min): cada equipo elige una técnica de captación, graba su pitch de 60 s y define el canal de publicación.</li>\n<li>Iteración SEO (45 min): aplicación de las keywords identificadas a la landing (título, metadescripción, contenido).</li>\n</ul>\n<p><strong>Entregable:</strong> Landing optimizada + Vídeo pitch de 60 s.</p>\n</td>\n<td style=\"width: 20.4657%; background-color: #c2e0f4; vertical-align: top;\">\n<p>Google Trends</p>\n<p>Ubersuggest (neilpatel.com/ubersuggest)</p>\n<p>Móvil + CapCut</p>\n<p>Ficha S4 – SEO + vídeo pitch</p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 79.5343%; vertical-align: top;\">\n<p><strong>TAREA 5 · PRESENTACIÓN FINAL Y CIERRE</strong></p>\n<p>Sesión 5 – 2 horas</p>\n<p>Cada equipo presenta ante el grupo-clase su estrategia completa de marketing digital. Se realiza coevaluación entre pares y una reflexión grupal de cierre.</p>\n<p>Estructura de la sesión:</p>\n<ul>\n<li>Presentaciones (~10 min/equipo + preguntas): marca, funnel, landing en vivo, vídeo pitch y reflexión sobre el proceso.</li>\n<li>Coevaluación rápida: cada equipo anota «Lo mejor» y «Una mejora» para cada presentación usando la rúbrica de pares.</li>\n<li>Cierre (30 min): reflexión grupal. ¿Qué habéis aprendido? ¿Cómo aplicaríais esto en vuestra clínica? Conexión con las unidades siguientes (viabilidad económica, formas jurídicas).</li>\n</ul>\n<p><strong>Entregable:</strong> Presentación oral + Ficha de coevaluación + Reflexión individual.</p>\n</td>\n<td style=\"width: 20.4657%; background-color: #c2e0f4; vertical-align: top;\">\n<p>PowerPoint / Google Slides / Canva Presentación</p>\n<p>Rúbrica de coevaluación entre pares</p>\n<p>Ficha de reflexión individual</p>\n</td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnn483xb-iqyofmjzt</odePageId>
+  <odeParentPageId>page-mnn483wv-h2csgh4fn</odeParentPageId>
+  <pageName>3. Metodologías activas</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Metodologías activas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Metodologías activas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnn483xb-iqyofmjzt</odePageId>
+      <odeBlockId>block-1774727280626-27ho9tg65</odeBlockId>
+      <blockName>Metodologías Activas</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnn483xb-iqyofmjzt</odePageId>
+          <odeBlockId>block-1774727280626-27ho9tg65</odeBlockId>
+          <odeIdeviceId>idevice-1774727280623-mpc3rzp0w</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <table border="1" style="width: 100%;">
+<tbody>
+<tr>
+<td style="width: 99.875%; background-color: #c2e0f4;">METODOLOGÍA</td>
+</tr>
+<tr>
+<td style="width: 99.875%;">
+<ul>
+<li>Aprendizaje basado en problemas</li>
+<li>Aprendizaje basado en proyectos</li>
+<li>Aprendizaje basado en retos</li>
+<li>Estaciones de aprendizaje</li>
+<li>Aprendizaje cooperativo</li>
+<li>Pensamiento de diseño (Design Thinking)</li>
+<li>Aprendizaje por descubrimiento</li>
+<li>Gamificación</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="width: 99.875%;"><br /></td>
+</tr>
+<tr>
+<td style="width: 99.875%; background-color: #c2e0f4;">AGRUPAMIENTOS</td>
+</tr>
+<tr>
+<td style="width: 99.875%;">
+<ul>
+<li>Trabajo individual (reflexión y coevaluación)</li>
+<li>Grupos heterogéneos (elaboración proyectos)</li>
+<li>Gran grupo o grupo-clase (presentación, debates, propuestas de mejora)</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774727280623-mpc3rzp0w","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<table border=\"1\" style=\"width: 100%;\">\n<tbody>\n<tr>\n<td style=\"width: 99.875%; background-color: #c2e0f4;\">METODOLOGÍA</td>\n</tr>\n<tr>\n<td style=\"width: 99.875%;\">\n<ul>\n<li>Aprendizaje basado en problemas</li>\n<li>Aprendizaje basado en proyectos</li>\n<li>Aprendizaje basado en retos</li>\n<li>Estaciones de aprendizaje</li>\n<li>Aprendizaje cooperativo</li>\n<li>Pensamiento de diseño (Design Thinking)</li>\n<li>Aprendizaje por descubrimiento</li>\n<li>Gamificación</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td style=\"width: 99.875%;\"><br /></td>\n</tr>\n<tr>\n<td style=\"width: 99.875%; background-color: #c2e0f4;\">AGRUPAMIENTOS</td>\n</tr>\n<tr>\n<td style=\"width: 99.875%;\">\n<ul>\n<li>Trabajo individual (reflexión y coevaluación)</li>\n<li>Grupos heterogéneos (elaboración proyectos)</li>\n<li>Gran grupo o grupo-clase (presentación, debates, propuestas de mejora)</li>\n</ul>\n</td>\n</tr>\n</tbody>\n</table>\n<p></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnn483xb-3lob48fca</odePageId>
+  <odeParentPageId>page-mnn483wv-h2csgh4fn</odeParentPageId>
+  <pageName>4. Vinculación con los proyectos y programas del centro</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Vinculación con los proyectos y programas del centro</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Vinculación con los proyectos y programas del centro</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnn483xb-3lob48fca</odePageId>
+      <odeBlockId>block-1774727074900-01nkn6h47</odeBlockId>
+      <blockName>Vinculación con otros programas</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnn483xb-3lob48fca</odePageId>
+          <odeBlockId>block-1774727074900-01nkn6h47</odeBlockId>
+          <odeIdeviceId>idevice-1774727074897-zeqdai0i9</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Esta unidad está relacionada con los siguientes proyectos y programas de nuestro centro</p>
+<ul>
+<li><span style="text-decoration: underline;">Unidad de Orientación Profesional y Emprendimiento</span>. Nos organizará un encuentro con un experto en marketing digital que nos explicará las características que tiene que tener un producto mínimo viable y como elaborar una campaña publicitaria de alto impacto en la era digital.</li>
+<li><span style="text-decoration: underline;">Plan Digital del Centro</span>: Nos facilitará el uso de herramientas de productividad digital e IA en el aula. Nos facilitará gafas 3D para poder trabajar y publicitar nuestro producto mínimo viable en un entorno 3D.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774727074897-zeqdai0i9","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta unidad está relacionada con los siguientes proyectos y programas de nuestro centro</p>\n<ul>\n<li><span style=\"text-decoration: underline;\">Unidad de Orientación Profesional y Emprendimiento</span>. Nos organizará un encuentro con un experto en marketing digital que nos explicará las características que tiene que tener un producto mínimo viable y como elaborar una campaña publicitaria de alto impacto en la era digital.</li>\n<li><span style=\"text-decoration: underline;\">Plan Digital del Centro</span>: Nos facilitará el uso de herramientas de productividad digital e IA en el aula. Nos facilitará gafas 3D para poder trabajar y publicitar nuestro producto mínimo viable en un entorno 3D.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnn483xd-6hujhn4nz</odePageId>
+  <odeParentPageId>page-mnn483wv-h2csgh4fn</odeParentPageId>
+  <pageName>5. Actividades complementarias y extraescolares</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Actividades complementarias y extraescolares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Actividades complementarias y extraescolares</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnn483xd-6hujhn4nz</odePageId>
+      <odeBlockId>block-1774726903086-5tcs3q4x6</odeBlockId>
+      <blockName>Actividades extraescolares</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnn483xd-6hujhn4nz</odePageId>
+          <odeBlockId>block-1774726903086-5tcs3q4x6</odeBlockId>
+          <odeIdeviceId>idevice-1774726903081-jfla7lj72</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Visita al vivero de empresas "Talud de la Ería" donde un profesional del marketing digital impartirá un taller:</p>
+<ul>
+<li>Prototipado: características esencial del Producto Mínimo Viable.</li>
+<li>Marketing en la era digital: estrategias de captación y fidelización de clientes en el entorno real.<br /> </li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774726903081-jfla7lj72","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Visita al vivero de empresas \"Talud de la Ería\" donde un profesional del marketing digital impartirá un taller:</p>\n<ul>\n<li>Prototipado: características esencial del Producto Mínimo Viable.</li>\n<li>Marketing en la era digital: estrategias de captación y fidelización de clientes en el entorno real.<br /> </li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnn483xf-i2aymlx3x</odePageId>
+  <odeParentPageId>page-mnn483wv-h2csgh4fn</odeParentPageId>
+  <pageName>6. Atribución y descarga</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Atribución y descarga</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Atribución y descarga</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775497502169-d61ztp9u5</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Descargar EXE</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descargar EXE</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Descargar EXE</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775497502169-d61ztp9u5</odePageId>
+      <odeBlockId>block-1775497602999-weaop5jz4</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775497502169-d61ztp9u5</odePageId>
+          <odeBlockId>block-1775497602999-weaop5jz4</odeBlockId>
+          <odeIdeviceId>idevice-1775497602994-w6jvxjlxe</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">CONCRECCIÓN CURRICULAR de la SdA</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">-</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Juan Carlos Hernández</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="http://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
